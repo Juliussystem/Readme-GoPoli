@@ -76,7 +76,21 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### •	FAQ:
 ¿Debo instalar algún programa para que cuente mis pasos?
-RTA: No, no debes hacerlo
+No, no debes hacerlo.
+
+¿Cómo puedo ganar premios?
+Entre más pasos des más cerca estás de ganar increíbles premios.
+
+¿Dónde puedo ver el resumen de mis pasos y calorías?
+En esta página y en la aplicación encontrarás la opción de perfil y allí podrás encontrar el historial de los pasos que has dado y calorías que has registrado.
+
+¿Cómo me puedo inscribir?
+En esta página, en la parte superior derecha encontrarás el botón de registro. Recuerda que ingresas con tu usuario y contraseña del Poli, igualmente en la aplicación estará disponible esta opción.
+
+¿Quienes pueden usar esta app?
+
+Esta aplicación está diseñada para toda la comunidad del Politécnico Grancolombiano (estudiantes presenciales/ virtuales, egresados, docentes colaboradores)
+
 
 (En el momento en el cual se tenga la aplicación haremos que los integrantes del proyecto usen la aplicación y sus preguntas sean transmitidas para ponerlas.)
 
